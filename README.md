@@ -97,7 +97,7 @@ Dirancang khusus untuk pengguna **Minecraft Bedrock Edition** di Android, AIM me
 
 [![Download AIM v1.0](https://img.shields.io/badge/⬇️_Download_AIM_v1.0-1B5E20?style=for-the-badge&logo=android&logoColor=white)](https://www.mediafire.com/file/jflkk3gwax8a889/Addons_Installer_Minecraft_1.0.apk/file)
 
-*(ganti `yourusername` dengan username GitHub Anda)*
+*(Powered By`Simpatel Studios` )*
 
 </div>
 
